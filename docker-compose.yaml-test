@@ -23,6 +23,3 @@ services:
 networks:
   react-express:
   express-mongo:
-
-
-...
